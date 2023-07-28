@@ -1,0 +1,74 @@
+#title{
+    height: 20%;
+    width: 99%;
+    text-align: center;
+    font-size: 50px;
+    padding: 0px;
+    float: right;
+}
+
+#content{
+    height: 80%;
+    width: 100%;
+    float: right;
+    margin: 2px 0px 0px 0px;
+    overflow-x: hidden;
+    overflow-y: auto;
+   
+}
+
+.home{
+    background-color: gold;
+    height: 40px;
+    width: 10%;
+    margin: 20px 45% 10px 45%;
+    padding: 10px 5px 10px 3%;
+}
+#back{
+    color: skyblue;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+p,h3{
+    color: orange;
+}
+
+.button{
+    padding: 2px;
+}
+
+li{
+    color: black;
+}
+ul{
+    float:left;
+}
+.video1{
+    float: left;
+    width: 50%;
+    height: 60%;
+    padding:5px
+}.points{
+    float: left;
+    width: 48%;
+    height: 60%;
+    padding:5px;
+    font-size: 19px;
+}
+.video2{
+    float: left;
+    width: 50%;
+    height: 0%;
+    padding:5px
+}
+
+iframe.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div {
+    color: white;
+  }
